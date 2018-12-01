@@ -5,4 +5,7 @@ public class Bach {
     public static void main(String[] args) {
         System.out.println("lllllllll");
     }
+    public static void main(String[] args) {
+        System.out.println("rrtytrtytr");
+    }
 }
